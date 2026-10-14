@@ -4,7 +4,7 @@ export const profile = {
   lastName: 'Michozounnou',
   firstName: 'Saturnine Mèdéssè',
   role: 'Économiste, Spécialiste Suivi & Évaluation',
-  badge: 'DG / CEO',
+  badge: 'Directrice Générale',
   phone: { display: '+229 01 97 13 83 02', href: 'tel:+2290197138302' },
   email: {
     display: 'mksaturnine@gmail.com',
